@@ -1,0 +1,57 @@
+Author (Last Name),Author (First Name),Predicted Nationality,Country Probability,Actual Nationality,Prediction Accuracy,Identity,Title
+Abdel-Fattah,Randa,Sudan,0.2285138324,Australia,Incorrect,,The lines we cross
+Alko,Selina,Ghana,0.16940433,Canada,Incorrect,,The case for Loving : the fight for interracial marriage
+Barnet,Sylvan,France,1,USA,Incorrect,,A short guide to writing about art
+Beaton,Kate,Saint Vincent and the Grenadines,0.83957201,Canada,Incorrect,,The princess and the pony
+Burroway,Janet,Ghana,0.15073783,American,Incorrect,,Imaginative writing : the elements of craft
+Carter,Christine,Philippines,0.05608698,USA,Incorrect,,The sweet spot : how to find your groove at home and work
+Cervantes,Angela,Columbia,0.05251067,USA,Incorrect,,Ga
+Chaon,Dan,Romania,0.09901719,USA,Incorrect,,Ill will : a novel
+Cho,Zen,Singapore,0.21501356,Malaysia,Incorrect,,Sorcerer to the crown
+Collins,Manda,Madagascar,0.69064362,USA,Incorrect,,One for the rogue
+Corrigan,Timothy,USA,0.24764014,USA,Correct,,A short guide to writing about film
+Curtis,Scarlett,Chile,0.38837453,United Kingdom,Incorrect,,Feminists don't wear pink and other lies : amazing women on what the f-word means to them
+Downham,Jenny,Sweden,0.06982947,United Kingdom,Incorrect,,Unbecoming
+Gino,Alex,Czechia,0.0516903,USA,Incorrect,,George
+Gratz,Alan,Ireland,0.08731294,USA,Incorrect,,Refugee
+Grimes,Nikki,United Kingdom,0.18908649,USA,Incorrect,,"Chasing freedom : the life journeys of Harriet Tubman and Susan B. Anthony, inspired"
+Guillory,Jasmine,Singapore,0.16575397,USA,Incorrect,,The wedding date
+Ham,Anthony,USA,0.08359683,Australia,Incorrect,,Scandinavia
+Hawking,Stephen,New Zealand,0.0935789,United Kingdom,Incorrect,,Brief answers to the big questions
+Hua,Vanessa,French Guiana,0.04165901,USA,Incorrect,Asian-American,A river of stars : a novel
+Jackson,Lesley,United Kingdom,0.31682595,United Kingdom,Correct,,Sekhmet & Bastet : the feline powers of Egypt
+Jennings,Holly,United Kingdom,0.25869641,United Kingdom,Correct,,Arena
+Kanno,Aya,Japan,0.2042163,Japan,Correct,,Requiem of the rose king. volume 1
+Kanno,Aya,Japan,0.2042163,Japan,Correct,,Requiem of the rose king. 5
+Kanno,Aya,Japan,0.2042163,Japan,Correct,,Requiem of the rose king. Volume 4
+Kanno,Aya,Japan,0.2042163,Japan,Correct,,Requiem of the Rose King. Volume 3
+Karau,Holden,Spain,0.53165282,USA,Incorrect,Canada,Learning Spark
+Khan,Sabina,Azerbaijan,0.25364879,Canada,Incorrect,,The love & lies of Rukhsana Ali
+Konigsberg,Bill,Greece,0.15288642,USA,Incorrect,,Openly straight
+Kostova,Elizabeth,Mexico,0.05941525,USA,Incorrect,Slovenia,The shadow land : a novel
+Krosoczka,Jarrett,Canada,0.53199886,USA,Incorrect,,"Hey, kiddo"
+Manzano,Sonia,Swaziland,0.13646338,USA,Incorrect,Latinx,Becoming Maria : love and chaos in the South Bronx
+Martin,Alexa,Romania,0.15776829,USA,Incorrect,Black,Intercepted
+McLain,Paula,Portugal,0.1392667,USA,Incorrect,,Circling the sun : a novel
+McLain,Paula,Portugal,0.1392667,USA,Incorrect,,Love and ruin : a novel
+Mekas,Jonas,Sweden,0.20858752,Lithuania,Incorrect,,Jonas Mekas - Conversations with film-makers
+Mitchell,Saundra,USA,1,USA,Correct,,All out
+O'Grady,William,USA,0.10345416,USA,Correct,,Contemporary linguistic analysis : an introduction
+Priest,Cherie,Australia,0.27184198,USA,Incorrect,,Brimstone
+Rosenberg,Madelyn,Philippines,0.91742878,USA,Incorrect,,This is just a test : a novel
+Say,Allen,Taiwan,0.26320999,Japanese-American,Incorrect,,"Silent days, silent dreams"
+Schimmel,David,USA,0.03443834,USA,Correct,,Teachers and the law
+Selznick,Brian,USA,0.16231016,USA,Correct,,Ba
+Selznick,Brian,USA,0.16231016,USA,Correct,,The Marvels
+Shimura,Takako,Japan,1,Japan,Correct,,Sweet Blue Flowers
+Singh,Lilly,Kenya,0.0844879,Canada,Incorrect,,How to be a bawse : a guide to conquering life
+Spotswood,Jessica,Germany,0.03611486,USA,Incorrect,,Toil & trouble : 15 tales of women & witchcraft
+Steves,Rick,Netherlands,0.1868951,USA,Incorrect,,Travel as a political act
+Tan,Shaun,New Zealand,0.24752068,Australia,Incorrect,,The singing bones : inspired
+Telgemeier,Raina,Indonesia,0.56850282,USA,Incorrect,,Ghosts
+Völter,Helmut,Austria,0.70178909,Germany,Incorrect,,The movement of clouds around Mt. Fuji
+Watson,Stephanie,Côte d'Ivoire,0.06264373,USA,Incorrect,,Best friends in the universe
+Wickham,Hadley,South Africa,1,New Zeland,Incorrect,,"R for data science : import, tidy, transform, visualize, and model data"
+Wilke,Daria,Poland,0.31647413,Russia,Incorrect,,Playing a part
+Wingate,Lisa,Germany,0.06935489,USA,Incorrect,,Before we were yours : a novel
+Yang,Kelly,Taiwan,0.05728403,USA,Incorrect,Hong Kong,Front desk
